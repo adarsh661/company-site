@@ -1,0 +1,70 @@
+#column4{background-color: aqua;
+    
+
+}
+#column1{
+    background-color: bisque;
+    border-radius: 400px;
+}
+#page4{
+    
+    
+   
+    width: 100%;
+    height: 500px;
+}
+
+
+#column7{
+   background-color:rgb(235, 119, 225);
+   border-radius: 500px;
+    height: 500px;
+    padding-top: 30px;
+    padding-left: 30px;
+  }
+
+  #column8{
+    background-color:bisque;
+    border-radius: 800px;
+   margin-left: 25px;
+   height: 500px;
+  }
+  #page5{padding-top: 50px;
+    background-color: rgb(187, 133, 236);
+    height: 600px;
+  }
+ 
+
+  #column9{
+    background-color: cornflowerblue;
+   
+     height: 400px;
+     padding-top: 30px;
+     padding-left: 30px;
+     float: left;
+   }
+ 
+   #column10{
+    background-color: cornflowerblue;
+    
+    height: 400px;
+    float: left;
+   }
+   .div1{
+   
+    width: 50%;
+    float: left;
+   }
+
+   .div2{
+    
+    width: 50%;
+float: left;
+   }
+
+
+
+  
+   
+
+
